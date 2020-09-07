@@ -10,5 +10,8 @@ The implementation is performed on a part of Yelp reviews, availables [here](htt
 
 Here are partial results of the implementation with 3 attention heads. Highlighted words are considered as the most importants by the attention head to predict the rating.
 
+First review :
 ![](SelfAttentionH3_5.png)
+
+Second review :
 ![](SelfAttentionH3_3.png)
