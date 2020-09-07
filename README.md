@@ -14,4 +14,4 @@ Here are partial results of the implementation with 3 attention heads. Highlight
 ![](pictures/SelfAttentionH3_5.png)
 
 **Second review :**
-![](SelfAttentionH3_3.png)
+![](pictures/SelfAttentionH3_3.png)
