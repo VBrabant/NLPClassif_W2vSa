@@ -8,7 +8,7 @@ The implementation is performed on a part of Yelp reviews, availables [here](htt
 
 ## Results
 
-Here are partial results of the implementation with 3 attention heads. Highlighted words are considered as the most importants by the attention head to predict the rating.
+Here are partial results of the implementation with 3 attention heads. Highlighted words are considered as the most importants by the attention head to predict the rating. (Please keep in mind that the whole computing was executed with unoptimized materials. Results can be improved)
 
 **First review :**
 ![](pictures/SelfAttentionH3_5.png)
